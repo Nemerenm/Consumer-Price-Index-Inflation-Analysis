@@ -72,19 +72,20 @@ August, 1999: -3.51%
 
 ### Seasonal Trends
 
-Average MoM Change for All Items by Month:
-January: 1.16%
-February: 1.13%
-March: 1.11%
-April: 1.82%
-May: 1.69%
-June: 1.70%
-July: 1.73%
-August: 1.10%
-September: 0.71%
-October: -0.02%
-November: 0.42%
-December: 0.83%
+**Average MoM Change for All Items by Month:**
+
+- January: 1.16%
+- February: 1.13%
+- March: 1.11%
+- April: 1.82%
+- May: 1.69%
+- June: 1.70%
+- July: 1.73%
+- August: 1.10%
+- September: 0.71%
+- October: -0.02%
+- November: 0.42%
+- December: 0.83%
 
 ### 12-Month Average Changes
 
@@ -95,8 +96,7 @@ Food: 157.04%
 Core Items (Excluding Farm and Energy): 135.60%
 
 ## Key Insights
-
-
+- **Notable Patterns:** The data shows a clear and sustained rise in inflation across all categories, with noticeable spikes after the COVID-19 pandemic, particularly from 2021 onwards. This trend indicates that the pandemic likely triggered inflationary pressures that have continued in the years that followed.
 
 
 
