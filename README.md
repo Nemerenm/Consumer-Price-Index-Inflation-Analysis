@@ -74,30 +74,27 @@ August, 1999: -3.51%
 
 Average MoM Change for All Items by Month:
 January: 1.16%
-February: [Insert percentage]
-March: [Insert percentage]
-April: [Insert percentage]
-May: [Insert percentage]
-June: [Insert percentage]
-July: [Insert percentage]
-August: [Insert percentage]
-September: [Insert percentage]
-October: [Insert percentage]
-November: [Insert percentage]
-December: [Insert percentage]
+February: 1.13%
+March: 1.11%
+April: 1.82%
+May: 1.69%
+June: 1.70%
+July: 1.73%
+August: 1.10%
+September: 0.71%
+October: -0.02%
+November: 0.42%
+December: 0.83%
 
-Weighted Contribution Analysis
-Contribution to Overall Inflation (by Year):
-[Year]:
-All Items: [Insert percentage]
-Food: [Insert percentage]
-Core Items (Excluding Farm and Energy): [Insert percentage]
-12-Month Average Changes
-Average Changes Over 12 Months:
-All Items: [Insert average percentage]
-Food: [Insert average percentage]
-Core Items (Excluding Farm and Energy): [Insert average percentage]
+### 12-Month Average Changes
 
+**Average Changes Over 12 Months:**
+
+All Items: 145.07%
+Food: 157.04%
+Core Items (Excluding Farm and Energy): 135.60%
+
+## Key Insights
 
 
 
