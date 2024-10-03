@@ -1,8 +1,8 @@
-# Consumer-Price-Index-Inflation(CPI)-Analysis
+# Consumer-Price-Index-Inflation(CPI)-Analysis-Nigeria 
 
 ## Project Overview
 
-This project focuses on analyzing inflation trends using Consumer Price Index (CPI) data. The data is segmented into three major categories:
+This project focuses on analyzing inflation trends in Nigeria using Consumer Price Index (CPI) data. The data is segmented into three major categories:
 - **All Items Index**
 - **Food**
 - **All Items Excluding Farm Produce and Energy (Core CPI)**
@@ -61,8 +61,8 @@ KPIs: Displaying summary statistics such as average YoY change, MoM change, and 
 
 ### Overall Inflation Trends
 Total Years Analyzed: 28 Years
-Highest Year-on-Year Change for All Items:  48% in 1996 
-Lowest YoY Change for All Items: -2% Year in 2000 
+Highest Year-on-Year Change for All Items:  30.58% in 1996 
+Lowest YoY Change for All Items: 5.42% Year in 2007
 
 ### Month-on-Month (MoM) Change Analysis
 Highest MoM Change for All Items:
@@ -97,6 +97,9 @@ Core Items (Excluding Farm and Energy): 135.60%
 
 ## Key Insights
 - **Notable Patterns:** The data shows a clear and sustained rise in inflation across all categories, with noticeable spikes after the COVID-19 pandemic, particularly from 2021 onwards. This trend indicates that the pandemic likely triggered inflationary pressures that have continued in the years that followed.
+- In the early years, both general prices and food prices were on a deflationary trend, but food prices were more unpredictable, with notable differences showing up around 1999-2000 and again in 2005.
+From 2001 onwards, both general prices and food prices began to rise, reflecting inflation. At times, food prices increased faster than overall inflation.
+In more recent years, the gap between general price inflation and food price inflation has narrowed, meaning both categories have started moving more closely together.
 
 
 
