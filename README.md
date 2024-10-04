@@ -96,10 +96,19 @@ Food: 157.04%
 Core Items (Excluding Farm and Energy): 135.60%
 
 ## Key Insights
+
 - **Notable Patterns:** The data shows a clear and sustained rise in inflation across all categories, with noticeable spikes after the COVID-19 pandemic, particularly from 2021 onwards. This trend indicates that the pandemic likely triggered inflationary pressures that have continued in the years that followed.
 - In the early years, both general prices and food prices were on a deflationary trend, but food prices were more unpredictable, with notable differences showing up around 1999-2000 and again in 2005.
 From 2001 onwards, both general prices and food prices began to rise, reflecting inflation. At times, food prices increased faster than overall inflation.
 In more recent years, the gap between general price inflation and food price inflation has narrowed, meaning both categories have started moving more closely together.
+- Seasonal changes seem to play a noticeable role in driving inflation rates, often in response to consumer demand and supply patterns. For example, December tends to see inflation spikes in categories like "All Items" and "Food," likely due to heightened holiday shopping and demand. On the other hand, September and October sometimes show reduced inflation or even slight deflation, possibly reflecting a drop in demand after summer. 
+
+## Conclusion
+
+The findings reveal that inflation trends are shaped by a mix of seasonal demand changes and broader economic factors. Since the COVID-19 pandemic, inflation has consistently risen, showing its lasting effects on the economy, particularly in driving up prices for everyday essentials like food. Interestingly, the gap between overall price inflation and food price inflation is narrowing, suggesting that consumers are feeling the pinch of rising prices more uniformly across different categories.
+
+Seasonal patterns also play a role, with price spikes during the holiday seasons and declines in late summer. This highlights the need for businesses and policymakers to stay alert about timing and inventory management to help ease inflation pressures. Ultimately, these insights emphasize the importance of tackling core economic issues, such as ensuring stable supply chains and understanding consumer behavior, to effectively manage future inflation challenges.
+
 
 
 
