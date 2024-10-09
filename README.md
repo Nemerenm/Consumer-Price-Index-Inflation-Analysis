@@ -52,10 +52,11 @@ The dataset consists of the following fields:
 
 Using Power BI, the following visuals were created:
 
-YoY Line Charts: To show trends in inflation for All Items, Food, and Core Items(Excluding Food and Energy) over time.
-Stacked Bar Charts: To compare weighted contribution to inflation for All Items, Food, and Core Items(Excluding Food and Energy) over time.
-Seasonal Trend Heatmaps: Highlighting inflation trends across different months of the year.
-KPIs: Displaying summary statistics such as average YoY change, MoM change, and weighted contributions of categories.
+**YoY Line Charts:* To show trends in inflation for All Items, Food, and Core Items(Excluding Food and Energy) over time.
+**Stacked Bar Charts:* To compare weighted contribution to inflation for All Items, Food, and Core Items(Excluding Food and Energy) over time.
+
+**Seasonal Trend Heatmaps:* Highlighting inflation trends across different months of the year.
+**KPIs:* Displaying summary statistics such as average YoY change, MoM change, and weighted contributions of categories.
 
 ## Findings
 
