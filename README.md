@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on analyzing inflation trends in Nigeria using Consumer Price Index (CPI) data. The data is segmented into three major categories:
+This project focuses on analyzing inflation trends in Nigeria using Consumer Price Index (CPI) data from 1996-2023. The data is segmented into three major categories:
 - **All Items Index**
 - **Food**
 - **All Items Excluding Farm Produce and Energy (Core CPI)**
@@ -97,18 +97,27 @@ Core Items (Excluding Farm and Energy): 135.60%
 
 ## Key Insights
 
-- **Notable Patterns:** The data shows a clear and sustained rise in inflation across all categories, with noticeable spikes after the COVID-19 pandemic, particularly from 2021 onwards. This trend indicates that the pandemic likely triggered inflationary pressures that have continued in the years that followed.
-- In the early years, both general prices and food prices were on a deflationary trend, but food prices were more unpredictable, with notable differences showing up around 1999-2000 and again in 2005.
-From 2001 onwards, both general prices and food prices began to rise, reflecting inflation. At times, food prices increased faster than overall inflation.
-In more recent years, the gap between general price inflation and food price inflation has narrowed, meaning both categories have started moving more closely together.
-- Seasonal changes seem to play a noticeable role in driving inflation rates, often in response to consumer demand and supply patterns. For example, December tends to see inflation spikes in categories like "All Items" and "Food," likely due to heightened holiday shopping and demand. On the other hand, September and October sometimes show reduced inflation or even slight deflation, possibly reflecting a drop in demand after summer. 
+- **Rising Inflation Post-COVID-19:**
+The analysis clearly shows that inflation has been consistently rising, especially after the COVID-19 pandemic. Food prices, in particular, have been a big contributor to this inflation. This suggests that the pandemic has had long-lasting effects on inflation, particularly in essential categories like food, which affects everyone’s daily life.
+
+- **Weighted Contribution of Food to CPI:**
+Food inflation is responsible for 59% of the overall Consumer Price Index (CPI), meaning food prices play a major role in driving inflation in Nigeria. Interestingly, over recent years, the gap between general price inflation and food price inflation is closing. This shows that people are feeling the effects of rising prices more equally across different areas, not just in food.
+
+- **Seasonal Trends:**
+Inflation tends to spike in December, likely due to the holiday season’s higher demand, while September and October often see lower inflation or even deflation. This suggests that seasonal demand patterns play a key role in shaping inflation, which means businesses and policymakers need to keep an eye on these trends to better manage inflation.
+
+
 
 ## Conclusion
 
-The findings reveal that inflation trends are shaped by a mix of seasonal demand changes and broader economic factors. Since the COVID-19 pandemic, inflation has consistently risen, showing its lasting effects on the economy, particularly in driving up prices for everyday essentials like food. Interestingly, the gap between overall price inflation and food price inflation is narrowing, suggesting that consumers are feeling the pinch of rising prices more uniformly across different categories.
+- **Economic Vulnerability:**
+The fact that food prices play such a significant role in driving inflation highlights a critical area of concern for the economy. Since food accounts for 59% of the CPI, ensuring that this sector is stable can have a major impact on controlling overall inflation. This means that better management of supply chains and food production isn't just important—it’s essential for keeping prices in check and helping everyday Nigerians cope with inflation.
 
-Seasonal patterns also play a role, with price spikes during the holiday seasons and declines in late summer. This highlights the need for businesses and policymakers to stay alert about timing and inventory management to help ease inflation pressures. Ultimately, these insights emphasize the importance of tackling core economic issues, such as ensuring stable supply chains and understanding consumer behavior, to effectively manage future inflation challenges.
+- **Actionable Insights for Policymakers:**
+To address inflation effectively, we need to focus on more than just the numbers. Policymakers should prioritize tackling supply chain issues, managing consumer demand, and ensuring food security, especially during high-demand periods like the holiday season. By focusing on these areas, we can work toward stabilizing inflation and improving the cost of living for people across Nigeria.
 
+- **Broader Implications:**
+This analysis shows that inflation is not only about rising prices—it’s also about seasonal trends and the broader economic picture. Businesses and policymakers need to stay ahead of these patterns and understand consumer behavior to make informed decisions. Ultimately, managing inflation isn’t just about reacting to price hikes but about creating long-term strategies that address the root causes and help ensure stability in the future.
 
 
 
