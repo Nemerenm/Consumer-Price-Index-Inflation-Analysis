@@ -68,7 +68,7 @@ Lowest YoY Change for All Items:65% Year in 2007
 Highest MoM Change for All Items:
 April, 1995: 8.98%
 Lowest MoM Change for All Items:
-August, 1999: -3.51%
+October, 2002: -3.43%
 
 ### Seasonal Trends
 
