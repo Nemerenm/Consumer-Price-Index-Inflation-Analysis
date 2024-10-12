@@ -61,8 +61,8 @@ Using Power BI, the following visuals were created:
 
 ### Overall Inflation Trends
 Total Years Analyzed: 28 Years
-Highest Year-on-Year Change for All Items:  30.58% in 1996 
-Lowest YoY Change for All Items: 5.42% Year in 2007
+Highest Year-on-Year Change for All Items:367% in 1996 
+Lowest YoY Change for All Items:65% Year in 2007
 
 ### Month-on-Month (MoM) Change Analysis
 Highest MoM Change for All Items:
